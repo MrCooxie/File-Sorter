@@ -1,0 +1,8 @@
+This program basically sorts all of the files into folders. For example when there is a folder with files
+
+Java_Program1
+Java_Program2
+
+It creates a new Folder in the same folder where Java_Program1 and Java_Program2 are located and copy the files to a newly create Folder called Java for this example.
+
+The program also works when the Folder Java has already been created.

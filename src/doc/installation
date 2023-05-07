@@ -1,0 +1,18 @@
+The program can be executed via command line or via IDE (preferred).
+
+When the program starts then there are some messages displayed on the console.
+
+1 - Close program
+2 - Sort Folder
+
+You now need to input one of two numbers (1 or 2).
+
+If you input 1, then the program closes, but you can run the program again.
+If you input 2, then the program asks for the location of a folder you wish to Sort.
+
+For example of a valid location of a Folder on my computer
+
+C:\Users\user\Desktop\File Sorter file
+
+Note: this URL most likely wont work on your computer.
+
